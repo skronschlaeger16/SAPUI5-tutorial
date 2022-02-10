@@ -1,0 +1,20 @@
+{
+  "name": "SAPUI5-tutorial",
+  "version": "1.0.0",
+  "description": "Get an overview of SAP UI5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skronschlaeger16/SAPUI5-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skronschlaeger16/SAPUI5-tutorial/issues"
+  },
+  "homepage": "https://github.com/skronschlaeger16/SAPUI5-tutorial#readme"
+}
