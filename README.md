@@ -1,2 +1,2 @@
 # SAPUI5-tutorial
-Get an overview of SAP UI5
+Using SAP UI5 for the first time..
