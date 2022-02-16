@@ -4,7 +4,7 @@ sap.ui.define([
     "use strict"
 
     return Controller.extend("sap.ui.demo.walkthrough.App", {
-        onShowHello : function () {
+        onShowHello: function () {
             alert("Hello there!");
         }
     });
